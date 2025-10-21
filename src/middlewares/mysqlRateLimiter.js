@@ -1,4 +1,5 @@
 import { pool } from '../database/mysql.js';
+
 import {
   getRateLimitConfig,
   setRateLimitHeaders,
